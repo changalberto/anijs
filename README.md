@@ -1,5 +1,7 @@
 # AniJS
 
+[![Join the chat at https://gitter.im/changalberto/anijs](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/changalberto/anijs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A Library to Raise your Web Design without Coding.
 
 The most easy and quick way to Raise your web!!!
